@@ -14,3 +14,5 @@ const result = localStorage.getItem("key")
  ```js
 localStorage.setItem("key","something")
  ```
+
+ ![image](https://user-images.githubusercontent.com/5538753/38788424-263e6aae-4166-11e8-9643-a9c0ec200a6a.png)
